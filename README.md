@@ -1,2 +1,2 @@
 # Tela-inicial-NETFLIX
-praticando html semântico
+* praticando html semântico com tela inicial do netflix
